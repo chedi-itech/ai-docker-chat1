@@ -33,8 +33,8 @@ npm install
 
 3. Create a `.env` file in the root directory with the following variables:
 ```env
-NEXT_PUBLIC_API_URL=https://ever-ai-api.his-nonprod.everapp.io/v1/chat-messages
-NEXT_PUBLIC_API_KEY=app-V8KBVCg1knGAzCfFecPibRZY
+NEXT_PUBLIC_API_URL=
+NEXT_PUBLIC_API_KEY=
 ```
 
 4. Start the development server:
